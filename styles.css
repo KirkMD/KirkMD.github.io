@@ -7,11 +7,15 @@ body{
     padding:10px;
     background:#65BFBF;
     margin:50px;
+    margin-bottom:20px;
+    border-radius:20px;
+    box-shadow:5px 5px #BF6860;
 }
 .assignment img{
     width:200px;
     height:200px;
     padding:10px;
+    border-radius:20px;
 }
 h1{
     text-align:center;
@@ -20,4 +24,7 @@ h1{
 a{
     text-decoration: none;
     color:#BF6860;
+}
+.assignment a:hover{
+    color:white;
 }
